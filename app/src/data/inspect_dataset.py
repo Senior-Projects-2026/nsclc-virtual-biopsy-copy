@@ -1,3 +1,4 @@
+"""Inspects the raw CSV files, displaying their dimensions, columns, data types, sample rows, and missing values."""
 from pathlib import Path
 import pandas as pd
 

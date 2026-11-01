@@ -1,3 +1,4 @@
+"""Generates a report and bar chart showing the distribution of positive and negative EGFR labels."""
 from pathlib import Path
 
 import pandas as pd

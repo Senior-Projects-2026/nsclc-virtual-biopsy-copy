@@ -1,3 +1,4 @@
+"""Joins and filters the patient, EGFR, and imaging datasets to produce the eligible training and validation datasets and DICOM folder list."""
 from pathlib import Path
 
 import pandas as pd
